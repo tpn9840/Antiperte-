@@ -1,0 +1,6 @@
+{
+  "name": "ANTIPERTE",
+  "description": "Tu colles une étiquette sur ton objet. Si quelqu'un le trouve, il appelle Antiperte, on t'appelle, tu récupères ton objet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

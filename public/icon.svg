@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#FFFFFF" />
+  <rect x="16" y="16" width="480" height="480" rx="98" fill="none" stroke="#E5E7EB" stroke-width="12" />
+  <path
+    d="M72 340 Q210 385 440 310"
+    fill="none"
+    stroke="#D32F2F"
+    stroke-width="26"
+    stroke-linecap="round"
+  />
+  <circle cx="232" cy="222" r="108" fill="#FFFFFF" stroke="#9CA3AF" stroke-width="22" />
+  <circle cx="232" cy="222" r="88" fill="none" stroke="#111111" stroke-width="6" />
+  <line
+    x1="312"
+    y1="302"
+    x2="404"
+    y2="394"
+    stroke="#6B7280"
+    stroke-width="34"
+    stroke-linecap="round"
+  />
+  <text
+    x="232"
+    y="248"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-weight="900"
+    font-size="88"
+    fill="#111111"
+  >AP</text>
+</svg>
